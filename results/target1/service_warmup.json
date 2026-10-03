@@ -1,0 +1,19 @@
+{
+  "group": "warmup",
+  "request_id": "service_warmup",
+  "success": true,
+  "error": null,
+  "input_sha256": "f60e46622d2292185d674ef4c68c6ce2f9705b66a1e136065f3147539bd734e1",
+  "prompt_tokens": 4,
+  "completion_tokens": 16,
+  "cached_tokens": 0,
+  "prefill_tokens": 4,
+  "ttft_s": 0.02857651099998293,
+  "tpot_s": 0.006846128133338425,
+  "e2e_s": 0.1312684330000593,
+  "sse_events": 16,
+  "finish_reason": {
+    "type": "length",
+    "length": 16
+  }
+}

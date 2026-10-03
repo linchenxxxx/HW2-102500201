@@ -1,0 +1,22 @@
+{
+  "started_at_utc": "2026-10-01T07:49:10.862927+00:00",
+  "base_url": "http://127.0.0.1:30000",
+  "sglang_version": "0.5.14",
+  "ray_version": "2.56.0",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU, 8151 MiB, 595.91.07",
+  "model": "Qwen/Qwen3-0.6B",
+  "request_count_per_group": 32,
+  "max_concurrency": 8,
+  "prompt_tokens_per_request": 2112,
+  "shared_prefix_tokens": 2048,
+  "sampling_params": {
+    "temperature": 0,
+    "max_new_tokens": 16,
+    "ignore_eos": true,
+    "sampling_seed": 2026
+  },
+  "group_order": [
+    "dispersed_prefix",
+    "shared_prefix"
+  ]
+}

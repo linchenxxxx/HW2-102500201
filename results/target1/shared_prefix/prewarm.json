@@ -1,0 +1,19 @@
+{
+  "group": "prewarm",
+  "request_id": "shared_prewarm",
+  "success": true,
+  "error": null,
+  "input_sha256": "1e49e3bcdd9e842d2c32c6f57dd5f695beef22c277ac2cd1fae4f03997e6e282",
+  "prompt_tokens": 2112,
+  "completion_tokens": 16,
+  "cached_tokens": 0,
+  "prefill_tokens": 2112,
+  "ttft_s": 0.11057615999993686,
+  "tpot_s": 0.006527333733341341,
+  "e2e_s": 0.20848616600005698,
+  "sse_events": 16,
+  "finish_reason": {
+    "type": "length",
+    "length": 16
+  }
+}
